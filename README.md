@@ -1,4 +1,4 @@
-# ShareForce | | Th3BlackHol3
+# ShareForce | Directory Brute-Forcer | Th3BlackHol3
 ShareForce, The Web Directory Brute-Forcer is a Python security tool for authorized testing. It probes Microsoft SharePoint servers, identifying vulnerabilities by systematically accessing common directories. Use responsibly to reveal misconfigurations, weak credentials, and sensitive data exposure, helping secure SharePoint installations. It will help you in Bug Hunting, Penetration Testing and etc.  Thanks!
 
 <p align="center">
