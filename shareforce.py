@@ -191,7 +191,7 @@ def check_directories(base_url):
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
-        print("Usage: python web_directory_brute_force.py <target_url>")
+        print("Usage: python shareforce.py <target_url>")
         sys.exit(1)
 
     target_url = sys.argv[1]
